@@ -1,0 +1,222 @@
+{
+  "Menu": [
+    {
+      "id": "1",
+      "name": "Chicken Wings",
+      "description": "Chicken wings are white meat, even though they're juicier and have a more concentrated poultry flavor, like dark meat. ",
+      "type": "Appeteasers",
+      "cuisine_name": "Indian",
+      "price": "250.00",
+      "consumable": "1:1",
+      "images": "chickenwings.jpeg"
+    },
+    {
+      "id": "2",
+      "name": "Chicken Livers and Portuguese Roll",
+      "description": "Chicken Livers Topped with PERi-PERi Sauce, Served with A Roll To Soak Up The Sauce",
+      "type": "Appeteasers",
+      "cuisine_name": "Indian",
+      "price": "250.00",
+      "consumable": "1:1",
+      "images": "chicken-livers.jpeg"
+    },
+    {
+      "id": "3",
+      "name": "Spicy Mixed Olives",
+      "description": "Co-Starring Garlic, Pepper and Chili",
+      "type": "Appeteasers",
+      "cuisine_name": "Indian",
+      "price": "215.00",
+      "consumable": "1:1",
+      "images": "spricyOlives.jpeg"
+    },
+    {
+      "id": "4",
+      "name": "Hummus with PERI-PERI Drizzle",
+      "description": "Pour Smoky PERi-PERi Oil Over Creamy Hummus and Dig in with Strips Of Warm Pita",
+      "category_name": "Appeteasers",
+      "cuisine_name": "Indian",
+      "price": "215.00",
+      "consumable": "1:1",
+      "images": "hummus-with-peri-peri.jpeg"
+    },
+    {
+      "id": "5",
+      "name": "Red Pepper Dip",
+      "description": "Dive Into Temping Roasted Red Pepper and Chili Spice Dip with Warm Pita Strips",
+      "category_name": "Appeteasers",
+      "cuisine_name": "Indian",
+      "price": "205.00",
+      "consumable": "1:1",
+      "images": "Roasted-Red-Pepper-Dip.jpg.jpg"
+    },
+    {
+      "id": "6",
+      "name": "All Together Now",
+      "description": "Spicy Mixed Olives, Red Pepper Dip, Hummus with PERi-PERi Drizzle and Warm Pita Strips",
+      "type": "Appeteasers",
+      "cuisine_name": "Indian",
+      "price": "520.00",
+      "consumable": "1:1",
+      "images": "spicy-thai-crunch-chicken.jpeg"
+    },
+    {
+      "id": "7",
+      "name": "PERi-PERi Wedges",
+      "description": "Chicken Livers Topped with PERi-PERi Sauce, Served with A Roll To Soak Up The Sauce",
+      "type": "Appeteasers",
+      "cuisine_name": "Fast Food",
+      "price": "190.00",
+      "consumable": "1:1",
+      "images": "Veeba_Videos_Peri_Peri_Roasted_Potato_Wedges-3.jpeg"
+    },
+    {
+      "id": "8",
+      "name": "Corn-On-The-Cob",
+      "description": "Cons with spicy",
+      "type": "Appeteasers",
+      "cuisine_name": "Indian",
+      "price": "330.00",
+      "consumable": "1:1",
+      "images": "corn_on_cob.png"
+    },
+    {
+      "id": "9",
+      "name": "Wing Roulette",
+      "description": "10 Wings in PERi-PERi Flavors",
+      "category_name": "Appeteasers",
+      "cuisine_name": "Indian",
+      "price": "750.00",
+      "consumable": "1:1",
+      "images": "wing_roulette.jpeg"
+    },
+    {
+      "id": "10",
+      "name": "Whole Chicken",
+      "description": "Whole Chicken Marinated in PERi-PERi Sauce and Grilled",
+      "category_name": "Appeteasers",
+      "cuisine_name": "Indian",
+      "price": "1350.00",
+      "consumable": "1:4",
+      "images": "wholeChicken.webp"
+    },
+    {
+      "id": "11",
+      "name": "Chicken Butterfly",
+      "description": "Succulent Double Chicken Breast in Crispy Skin",
+      "type": "Appeteasers",
+      "cuisine_name": "Indian",
+      "price": "495.00",
+      "consumable": "1:1",
+      "images": "chickbf.jpeg"
+    },
+    {
+      "id": "12",
+      "name": "Espetada",
+      "description": "Flame-Grilled PERi-PERi Thighs, Stuffed with Feta and Parsley, Skewered with Mixed Peppers",
+      "type": "Appeteasers",
+      "cuisine_name": "Indian",
+      "price": "695.00",
+      "consumable": "1:1",
+      "images": "espetada.jpeg"
+    },
+    {
+      "id": "13",
+      "name": "Grilled Chicken Tenders",
+      "description": "Juicy and Tender, Delicious with All Sides",
+      "type": "Appeteasers",
+      "cuisine_name": "Indian",
+      "price": "200.00",
+      "consumable": "1:1",
+      "images": "the-best-grilled-chicken-tenders.jpeg"
+    },
+    {
+      "id": "14",
+      "name": "Hummus with PERI-PERI Drizzle",
+      "description": "Pour Smoky PERi-PERi Oil Over Creamy Hummus and Dig in with Strips Of Warm Pita",
+      "category_name": "Appeteasers",
+      "cuisine_name": "Indian",
+      "price": "215.00",
+      "consumable": "1:1",
+      "images": "Spicy-Piri-Piri-Hummus-4.jpeg"
+    }
+  ],
+  "Users": [
+    {
+      "id": 1,
+      "name": "Administrator",
+      "email": "admin@gmail.com",
+      "password": "admin",
+      "phone": "9898989898",
+      "type": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Surendar",
+      "email": "surendar@gmail.com",
+      "password": "suren",
+      "phone": "9898989898",
+      "type": "user"
+    },
+    {
+      "name": "Testing Register",
+      "email": "test@register.com",
+      "password": "testreg",
+      "phone": 231235353,
+      "type": "user",
+      "id": 3
+    },
+    {
+      "name": "Testing User Register 2",
+      "email": "testureg2@gmail.com",
+      "password": "testureg2",
+      "phone": 41233123123,
+      "type": "user",
+      "id": 4
+    },
+    {
+      "name": "Test Admin Reg",
+      "email": "testadmin@gmail.com",
+      "password": "testadmin",
+      "phone": 23123123,
+      "type": "admin",
+      "id": 5
+    },
+    {
+      "name": "Testing Register 2 ",
+      "email": "testregister2@gmail.com",
+      "password": "testregister2",
+      "phone": 23123123,
+      "type": "admin",
+      "id": 6
+    },
+    {
+      "name": "AccountCrtTest",
+      "email": "testaccountcreate@gmail.com",
+      "password": "testaccountcreate",
+      "phone": 2312312312,
+      "type": "admin",
+      "id": 7
+    }
+  ],
+  "Orders": [
+    {
+      "id": 1,
+      "UserId": 1,
+      "orderItems": [
+        {
+          "id": 1,
+          "name": "Espetada",
+          "quintity": 2
+        },
+        {
+          "id": 2,
+          "name": "Chicken Butterfly",
+          "quintity": 1
+        }
+      ],
+      "Total": 1885,
+      "date": "12/12/2021"
+    }
+  ]
+}
